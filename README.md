@@ -8,12 +8,10 @@ My name is Danny, I'm MIPT 1st course student. My Range of interests is system p
 ## :fire: My stats:
 
 ### Му GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkay&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkay7&theme=radical&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=3600)
 
 ### My activity
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dkay7&theme=radical)](https://git.io/streak-stats)
 
 ### My top lang
-<details><spoiler><summary>Why there's so many jupiter...</summary>sorry for jupiter notebooks... physics labs break all stats...</details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkay7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkay7&layout=compact&theme=radical&hide=Jupyter%20Notebook,Assembly,TeX,Java)](https://github.com/anuraghazra/github-readme-stats)
