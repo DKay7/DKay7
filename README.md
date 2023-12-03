@@ -14,4 +14,4 @@ My name is Danny, I'm 3rd-year MIPT student. My range of interests is system pro
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dkay7&theme=gotham&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### My top lang
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkay7&layout=compact&theme=gotham&hide=Jupyter%20Notebook,Python,TeX,Assembly,Java)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dkay7&layout=compact&theme=gotham&hide=PostScript,Jupyter%20Notebook,Python,TeX,Assembly,Java)](https://github.com/anuraghazra/github-readme-stats)
