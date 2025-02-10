@@ -3,7 +3,7 @@
 
 
 ## About me:
-My name is Danny, I'm 3rd-year MIPT student. My range of interests is system programming, robotics, machine learning and a lot of other things! Here, on my personal GitHub page you can find some pet- and study projects. Some of them may be cringe but I'm still studying so execuse me :wink:
+My name is Danny, I'm MIPT student. My range of interests is compiler development, robotics, machine learning and a lot of other things! Here, on my personal GitHub page you can find pet- and study projects. Some of them may be cringe but I'm still studying so execuse me :wink:
 
 ## 🔥 My stats:
 
