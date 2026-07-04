@@ -1,7 +1,7 @@
 
 ## Daniil Kalinin
 
-MSc student at MIPT. C++/LLVM compiler engineer at ISP RAS.
+MSc student at MIPT. Compiler engineer (C++ / LLVM) at ISP RAS. working on static and dynamic program analysis.
 Interested in compiler-assisted fuzzing, program analysis, static instrumentation, and systems programming.
 
 ## Research interests
