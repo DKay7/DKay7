@@ -1,8 +1,7 @@
 
 ## Daniil Kalinin
 
-MSc student at MIPT. Compiler engineer (C++ / LLVM) at ISP RAS. working on static and dynamic program analysis.
-Interested in compiler-assisted fuzzing, program analysis, static instrumentation, and systems programming.
+MSc student at MIPT. Compiler engineer at ISP RAS experienced in C++ and LLVM. Working on static and dynamic program analysis.
 
 ## Research interests
 
@@ -13,7 +12,7 @@ Interested in compiler-assisted fuzzing, program analysis, static instrumentatio
 
 ## Selected projects
 
-  - [stack-cpu-emulator](https://github.com/DKay7/stack-cpu-emulator) - stack-based virtual CPU with custom assembly, assembler, emulator and disassembler.
+  - [stack-cpu-emulator](https://github.com/DKay7/stack-cpu-emulator) - stack-based virtual CPU with custom assembly, assembler, executor and disassembler.
   - [differentiator](https://github.com/DKay7/differentiator) - symbolic differentiator with recursive descent parser, expression trees and LaTeX reports.
   - [SimpleDFA](https://github.com/DKay7/SimpleDFA) - LLVM-based data-flow analysis tool.
   - [bachelor-thesis](https://github.com/DKay7/bachelor-thesis) - BSc thesis repository.
