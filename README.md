@@ -1,35 +1,22 @@
+# Daniil Kalinin
 
-## Daniil Kalinin
+I'm a compiler engineer at a research institute. I build LLVM-based tools for fuzzing and program analysis and lead a small team. My research is on compiler-assisted fuzzing. I've built instrumentation that tracks program state and tools that find fuzz blockers. I also work on a static analysis toolset.
 
-MSc student at MIPT. Compiler engineer at ISP RAS experienced in C++ and LLVM. Working on static and dynamic program analysis.
+I'm doing an MSc in systems programming at MIPT. I also teach seminars at the HSE Faculty of Computer Science.
 
-## Research interests
+In my spare time I've contributed upstream to LLVM: [an optimization in SimplifyCFG](https://github.com/llvm/llvm-project/pull/70977) and [a fix in libc++](https://reviews.llvm.org/D157569).
 
- - Compiler-assisted fuzzing
- - Static and dynamic program analysis
- - LLVM-based instrumentation
- - C/C++ tooling
+## Projects
 
-## Selected projects
+- [SimpleDFA](https://github.com/DKay7/SimpleDFA): an LLVM tool that builds def-use chains and annotates them with runtime values.
+- [operating-system](https://github.com/DKay7/operating-system): an xv6-based OS with a WebAssembly VM and JIT compiler. It can even run Doom compiled to Wasm.
+- [bachelor-thesis](https://github.com/DKay7/bachelor-thesis): my BSc thesis on state-aware fuzzing.
 
-  - [stack-cpu-emulator](https://github.com/DKay7/stack-cpu-emulator) - stack-based virtual CPU with custom assembly, assembler, executor and disassembler.
-  - [differentiator](https://github.com/DKay7/differentiator) - symbolic differentiator with recursive descent parser, expression trees and LaTeX reports.
-  - [SimpleDFA](https://github.com/DKay7/SimpleDFA) - LLVM-based data-flow analysis tool.
-  - [bachelor-thesis](https://github.com/DKay7/bachelor-thesis) - BSc thesis repository.
-  - [concurrent-queue](https://github.com/DKay7/concurrent-queue) - SPSC wait-free queue with tests and fuzz/coverage scripts.
+Older university projects I still like:
 
-
-## Teaching repositories
-
- - [C language and algorithms](https://github.com/DKay7/seminars-on-c)
- - [Asm language and system architecture](https://github.com/DKay7/seminars-on-asm)
-
-
-## Open source contributions
-
-- LLVM SimplifyCFG: [optimization for switches of powers of two](https://github.com/llvm/llvm-project/pull/70977) ([commit](https://github.com/llvm/llvm-project/commit/424c4249cc55ef515914318b246ea9e408be75ab))
-- libc++: [fix for `std::rotl` / `std::rotr` signature](https://reviews.llvm.org/D157569) ([commit](https://github.com/llvm/llvm-project/commit/45500fa08acdf3849de9de470cdee5f4c8ee2f32))
-- LLVM docs: [Kaleidoscope tutorial warning about outdated feature](https://reviews.llvm.org/D130613) ([commit](https://github.com/llvm/llvm-project/commit/fdc950958ed0970159071cc4367a66149971586f))
+- [stack-cpu-emulator](https://github.com/DKay7/stack-cpu-emulator): a stack-based virtual CPU with its own assembler. Its video memory can render the classic spinning ASCII donut.
+- [differentiator](https://github.com/DKay7/differentiator): a symbolic differentiator that writes its steps to LaTeX.
+- [MandelbrotSet](https://github.com/DKay7/MandelbrotSet): a Mandelbrot renderer optimized with SSE.
 
 ## Contacts
 
@@ -38,4 +25,3 @@ MSc student at MIPT. Compiler engineer at ISP RAS experienced in C++ and LLVM. W
 - LinkedIn: [Daniil Kalinin](https://linkedin.com/in/daniil-kalinin-a3797b215)
 - ORCID: [0009-0009-9127-2012](https://orcid.org/0009-0009-9127-2012)
 - CV: [pdf](https://github.com/DKay7/CV/blob/dev/cpp/CV_KalininDE.pdf)
-
